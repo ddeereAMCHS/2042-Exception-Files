@@ -11,7 +11,7 @@
 gibberish\
 stillBad.txt\
 input1.txt\
-***Example Contentes of input1.txt:***\
+***Example Contents of input1.txt:***\
 3\
 4\
 cat\
