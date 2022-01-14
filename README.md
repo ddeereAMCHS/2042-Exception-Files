@@ -5,7 +5,7 @@
 - Read in all the lines and store them in an ArrayList of integers
   - If there is any value that is not an integer, skip it and print out the value that was skipped
 -  Calculate the mean (formatted to 3 decimal places), median (formatted to one decimal place), max, and min
-  -  Write those values to a file called `output.txt`
+   -  Write those values to a file called `output.txt`
 
 ***Example Input:***\
 input1.txt\
