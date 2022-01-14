@@ -8,8 +8,8 @@
    -  Write those values to a file called `output.txt`
 
 ***Example Input:***\
-gibberish
-stillBad.txt
+gibberish\
+stillBad.txt\
 input1.txt\
 ***Example Contentes of input1.txt:***\
 3\
