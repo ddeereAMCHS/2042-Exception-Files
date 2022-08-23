@@ -1,5 +1,7 @@
 # Exception Files
 
+## Due: DoW MM/DD at 11:59 PM
+
 - Create a program called `ExceptionFiles.java`
 - Prompt the user for a filename until the user enters the name of a file that exists
 - Read in all the lines and store them in an ArrayList of integers
