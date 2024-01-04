@@ -1,6 +1,6 @@
 # Exception Files
 
-## Due: Thur 1/12 at 11:59 PM
+## Due: Thur 1/11 at 11:59 PM
 
 - Create a program called `ExceptionFiles.java`
 - Prompt the user for a filename until the user enters the name of a file that exists
